@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.prio.org/news/3666'>**PhD**</a>. <a href='https://policyinnovationlab.sun.ac.za/'>**Policy Analyst**</a>. Social Scientist.
+subtitle: <a href="https://www.prio.org/news/3666"><strong>PhD</strong></a>. Conflict, Governance & Policy in Africa.
 
 profile:
   align: right
@@ -29,6 +29,6 @@ Currently, I work as a researcher and policy dialogue manager at the [**Policy I
 
 I completed my PhD in Political Science at Stellenbosch University in 2025, as part of the [**DISARM**](https://www.prio.org/projects/1931) project at [**PRIO**](https://www.prio.org/). My doctoral research analysed the implementation of the UN peacebuilding mission in Mozambique (ONUMOZ), with a focus on disarmament, demobilisation and reintegration (DDR) using newly declassified archival data and interviews.
 
-Previously, I worked as a researcher at [**Good Governance Africa**](https://gga.org/), where I contributed to data-driven research on governance performance, elections, political violence, climate risk and human security across Africa.
+Previously, I worked as a researcher at [**Good Governance Africa**](https://gga.org/), where I contributed to data-driven research on governance performance, elections, political violence, climate risk and human security across Africa. Before that, I completed my **MA in International Relations** at [Wits University](https://www.wits.ac.za/) supervised by Prof Rod Alence.
 
-I have a strong interest in quantitative methods for social science research. I use R for quantitative and geospatial analysis and data visualisation, and I teach and mentor early-career researchers to build accessible quantitative skills in Africa. Get in-touch 
+I have a strong interest in quantitative methods for social science research. I use R for quantitative and geospatial analysis and data visualisation, and I teach and mentor early-career researchers to build accessible quantitative skills in Africa.
