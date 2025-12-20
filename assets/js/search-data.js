@@ -515,28 +515,28 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/https://github.com/monmon1994", "_blank");
+          window.open("https://github.com/monmon1994", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/monique-bennett-5562b0a6/", "_blank");
+          window.open("https://www.linkedin.com/in/monique-bennett-5562b0a6", "_blank");
         },
       },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/https://orcid.org/0000-0001-9003-3946", "_blank");
+          window.open("https://orcid.org/0000-0001-9003-3946", "_blank");
         },
       },{
         id: 'social-researchgate',
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Monique-Bennett-4?ev=prf_overview/", "_blank");
+          window.open("https://www.researchgate.net/profile/Monique-Bennett-4?ev=hdr_xprf/", "_blank");
         },
       },{
         id: 'social-rss',
