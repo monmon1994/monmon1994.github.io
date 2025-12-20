@@ -31,4 +31,4 @@ I completed my [PhD in Political Science](https://www.prio.org/news/3666) at Ste
 
 Previously, I worked as a researcher at [**Good Governance Africa**](https://gga.org/), where I contributed to data-driven research on governance performance, elections, political violence, climate risk and human security across Africa. Before that, I completed my MA (International Relations) at [**Wits University**](https://www.wits.ac.za/).
 
-I have a strong interest in quantitative methods for social science research. I use R for quantitative and geospatial analysis and data visualisation, and I teach and mentor early-career researchers to build accessible quantitative skills in Africa.
+I have a strong interest in quantitative methods for social science research. I use R for quantitative analysis and data visualisation. I've worked with spatial, survey, conflict and development data. Over the years, I have tutored early-career social science researchers and PhDs how to conduct analyses in R using familiar datasets and examples. This is in the hopes of making quantitative skills (using R) more accessible, especially in the African context for non-STEM scholars.
