@@ -15,7 +15,7 @@ cv_pdf: /assets/pdf/Monique Bennett CV 110525.pdf # path to your CV PDF file
 email: moniqueben@sun.ac.za # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-github_username: https://github.com/monmon1994 # your GitHub user name
+github_username: monmon1994 # your GitHub user name
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
@@ -26,15 +26,15 @@ github_username: https://github.com/monmon1994 # your GitHub user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: https://www.linkedin.com/in/monique-bennett-5562b0a6/ # your LinkedIn user name
+linkedin_username: monique-bennett-5562b0a6 # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-orcid_id: https://orcid.org/0000-0001-9003-3946 # your ORCID ID
+orcid_id: 0000-0001-9003-3946 # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
-research_gate_profile: https://www.researchgate.net/profile/Monique-Bennett-4?ev=prf_overview # your profile on ResearchGate
+research_gate_profile: Monique-Bennett-4?ev=hdr_xprf # your profile on ResearchGate
 rss_icon: false # comment this line to hide the RSS icon
 scholar_userid: NuR6oD4AAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
