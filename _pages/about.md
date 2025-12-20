@@ -1,8 +1,8 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
-subtitle: Researcher. Policy dialogue manager. 
+subtitle: **PhD (PolSci)** @ [Stellenbosch](https://www.su.ac.za/en/about) and **Policy Advice Analyst** @ [Policy Innovation Lab](https://policyinnovationlab.sun.ac.za/)
 
 profile:
   align: left
