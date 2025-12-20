@@ -40,17 +40,13 @@ table.table a {
   color: var(--global-theme-color);
 
   &:hover {
-    color: var(--global-theme-color);
+    color: var(--global-hover-color);
     text-decoration: underline;
   }
   
   &:hover:after :not(.nav-item.dropdown) {
     width: 100%;
   }
-}
-
-a:hover strong {
-  color: var(--global-hover-color);
 }
 
 .table-dark {
@@ -242,7 +238,7 @@ ul.task-list input[type="checkbox"] {
     color: inherit;
 
     &:hover {
-      color: var(--global-theme-color);
+      color: var(--global-hover-color);
       text-decoration: none;
     }
   }
@@ -419,7 +415,7 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 3rem;
 
     a {
       img {
