@@ -6,7 +6,7 @@ subtitle: <a href='https://www.prio.org/news/3666'>**PhD**</a>. <a href='https:/
 
 profile:
   align: right
-  image: IMG_8603.jpg
+  image: IMG_8603.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
 
