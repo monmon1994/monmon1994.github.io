@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD (PolSci), [Stellenbosch](https://www.su.ac.za/en/about) and Policy Advice Analyst, [Policy Innovation Lab](https://policyinnovationlab.sun.ac.za/)
+subtitle: <a href='https://policyinnovationlab.sun.ac.za/'>Policy Analyst</a>. <a href='https://www.prio.org/news/3666'>PhD (Political Science)</a>
 
 profile:
   align: left
