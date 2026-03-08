@@ -25,7 +25,7 @@ latest_posts:
 ---
 Welcome! I am Monique, a social science researcher and policy analyst. My work focuses on conflict and peacebuilding, governance and electoral politics as well as climate-related risks in Africa. 
 
-Currently, I work as an analyst and policy dialogue manager at the [**Policy Innovation Lab**](https://policyinnovationlab.sun.ac.za/) at Stellenbosch University within the School for Data Science and Computational Thinking. Currently, I am focused on topics related to digital transformation and responsible AI adoption in the public sector.
+Currently, I work as an analyst and policy dialogue manager at the [**Policy Innovation Lab**](https://policyinnovationlab.sun.ac.za/) at Stellenbosch University within the School for Data Science and Computational Thinking. Topics I am focused on relate to digital transformation in government, policy implementation and responsible AI adoption across the public sector.
 
 I completed my [PhD in Political Science](https://www.prio.org/news/3666) at Stellenbosch University in December 2025, as part of the [**DISARM**](https://www.prio.org/projects/1931) project at [**PRIO**](https://www.prio.org/). My doctoral research analysed the implementation of the UN peacebuilding mission in Mozambique, with a focus on disarmament, demobilisation and reintegration using newly declassified UN archival data and interviews.
 
